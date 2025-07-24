@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌍 Location: Nairobi, Kenya *(customize if needed)*
+- 🌍 Location: Nairobi, Kenya 
 - 💼 Interested in web development, open source, and cloud technologies
 - 🛠 Languages & Tools: Javascript, Typescript, Python, React, Node.js, Docker, Git
 - 🎯 Always eager to learn new things and collaborate on exciting projects!
@@ -44,8 +44,8 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/kingori99/todo-list-app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingori99&repo=todo-list-app&theme=radical" /></a>
-  <a href="https://github.com/kingori99/digital-clock"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingori99&repo=digital-clock&theme=radical" /></a>
+  <a href="https://github.com/kingori99/fluffy-codespaces"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingori99&repo=todo-list-app&theme=radical" /></a>
+  <a href="https://github.com/kingori99/data-explorer-r"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingori99&repo=digital-clock&theme=radical" /></a>
 </p>
 
 ---
