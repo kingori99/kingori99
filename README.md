@@ -41,15 +41,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/kingori99/fluffy-codespaces"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingori99&repo=todo-list-app&theme=radical" /></a>
-  <a href="https://github.com/kingori99/data-explorer-r"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kingori99&repo=digital-clock&theme=radical" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kingori99&theme=radical&column=7" alt="GitHub Trophy">
 </p>
