@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Crispus Kingori</h2>
+<h2 align="center">Hi there 👋, I'm  Kingori</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F79A16&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG">
 </p>
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kingori99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/syntaxsquirrel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/syntax"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
