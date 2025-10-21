@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kingori99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://twitter.com/syntax"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
