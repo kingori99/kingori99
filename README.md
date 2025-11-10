@@ -41,9 +41,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kingori99&theme=radical&column=7" alt="GitHub Trophy">
-</p>
 
 ---
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
